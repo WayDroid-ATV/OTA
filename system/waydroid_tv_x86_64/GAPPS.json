@@ -1,6 +1,16 @@
 {
   "response": [
     {
+      "datetime": 1767643975,
+      "filename": "lineage-20.0-20260105-GAPPS-waydroid_tv_x86_64-system.zip",
+      "id": "29b19a7dd1b4c52f6ff127d0011d0e3215a527becaac61ce38253500069afae7",
+      "romtype": "GAPPS",
+      "asb": "2025-12-01",
+      "size": 1035092121,
+      "url": "https://sourceforge.net/projects/waydroid-atv/files/images/system/waydroid_tv_x86_64/lineage-20.0-20260105-GAPPS-waydroid_tv_x86_64-system.zip/download",
+      "version": "20.0"
+    },
+    {
       "datetime": 1766560568,
       "filename": "lineage-20.0-20251224-GAPPS-waydroid_tv_x86_64-system.zip",
       "id": "47abd60086eb40c29ea124a40b4d8707298c2f3996deee7c3a967e83b80b1f22",

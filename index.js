@@ -30,6 +30,4 @@ async function updateTable(img, arch, type) {
   table.appendChild(img_table_elem);
 }
 
-(async () => {
-  for (types of AVAILABLE_IMG_TYPES) await updateTable(...types);
-})();
+window.onload = async () => { for (types of AVAILABLE_IMG_TYPES) await updateTable(...types); };

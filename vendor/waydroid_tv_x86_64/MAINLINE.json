@@ -1,14 +1,24 @@
 {
-    "response": [
-        {
-            "datetime": 1766560706,
-            "filename": "lineage-20.0-20251224-MAINLINE-waydroid_tv_x86_64-vendor.zip",
-            "id": "d66bb8848406ede542756a66bdc236322c5d1d641f9aef740956650737ba46ac",
-            "romtype": "MAINLINE",
-            "asb": "2025-12-01",
-            "size": 193863110,
-            "url": "https://sourceforge.net/projects/waydroid-atv/files/images/vendor/waydroid_tv_x86_64/lineage-20.0-20251224-MAINLINE-waydroid_tv_x86_64-vendor.zip/download",
-            "version": "20.0"
-        }
-    ]
+  "response": [
+    {
+      "datetime": 1767647621,
+      "filename": "lineage-20.0-20260105-MAINLINE-waydroid_tv_x86_64-vendor.zip",
+      "id": "38a5b080451e8a87d6bfa6e5ec06c740d148df4717781845ec308ca3eb606f9b",
+      "romtype": "MAINLINE",
+      "asb": "2025-12-01",
+      "size": 193867208,
+      "url": "https://sourceforge.net/projects/waydroid-atv/files/images/vendor/waydroid_tv_x86_64/lineage-20.0-20260105-MAINLINE-waydroid_tv_x86_64-vendor.zip/download",
+      "version": "20.0"
+    },
+    {
+      "datetime": 1766560706,
+      "filename": "lineage-20.0-20251224-MAINLINE-waydroid_tv_x86_64-vendor.zip",
+      "id": "d66bb8848406ede542756a66bdc236322c5d1d641f9aef740956650737ba46ac",
+      "romtype": "MAINLINE",
+      "asb": "2025-12-01",
+      "size": 193863110,
+      "url": "https://sourceforge.net/projects/waydroid-atv/files/images/vendor/waydroid_tv_x86_64/lineage-20.0-20251224-MAINLINE-waydroid_tv_x86_64-vendor.zip/download",
+      "version": "20.0"
+    }
+  ]
 }

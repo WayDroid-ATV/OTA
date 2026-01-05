@@ -14,6 +14,7 @@ ASB_LEVEL = ARGV[0]
       Dir["lineage-*-#{type}-waydroid_tv_#{arch}-#{img}.zip"].each do |zip|
         stat = File.stat(zip)
 
+        json[:response].delete_if { |e| e[:filename] == zip }
         json[:response] << {
           datetime: stat.mtime.to_i,
           filename: zip,
@@ -21,7 +22,7 @@ ASB_LEVEL = ARGV[0]
           romtype:  type,
           asb:      ASB_LEVEL,
           size:     stat.size,
-          url:      "https://sourceforge.net/projects/waydroid/files/images/#{img}/waydroid_tv_#{arch}/#{zip}/download",
+          url:      "https://sourceforge.net/projects/waydroid-atv/files/images/#{img}/waydroid_tv_#{arch}/#{zip}/download",
           version:  zip[/^lineage-(.+?)-/, 1]
         }
       end
