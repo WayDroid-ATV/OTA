@@ -1,0 +1,14 @@
+{
+    "response": [
+        {
+            "datetime": 1767467935,
+            "filename": "lineage-20.0-20260103-MAINLINE-waydroid_tv_arm64-vendor.zip",
+            "id": "1eef6af01a58092c87edef5a9886d52812997b9ba2311eb33ad74eebc8f93109",
+            "romtype": "MAINLINE",
+            "asb": "2025-12-01",
+            "size": 131717994,
+            "url": "https://sourceforge.net/projects/waydroid-atv/files/images/vendor/waydroid_tv_arm64/lineage-20.0-20260103-MAINLINE-waydroid_tv_arm64-vendor.zip/download",
+            "version": "20.0"
+        }
+    ]
+}
