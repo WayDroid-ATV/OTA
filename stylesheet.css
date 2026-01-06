@@ -11,8 +11,11 @@ body {
   align-items: center;
 }
 
+body > * {
+  margin: 0 0 40px 0;
+}
+
 body > div {
-  margin-bottom: 50px;
   max-width: 100%;
   overflow-x: auto;
 }
@@ -76,4 +79,10 @@ a.button.tone2, button.tone2 {
 
 a.button.tone2:hover, button.tone2:hover {
   opacity: 0.9;
+}
+
+#icon {
+  height: 200px;
+  width: 200px;
+  margin: 0;
 }
