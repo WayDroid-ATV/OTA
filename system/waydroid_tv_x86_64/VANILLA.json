@@ -9,16 +9,6 @@
       "size": 805099462,
       "url": "https://sourceforge.net/projects/waydroid-atv/files/images/system/waydroid_tv_x86_64/lineage-20.0-20260105-VANILLA-waydroid_tv_x86_64-system.zip/download",
       "version": "20.0"
-    },
-    {
-      "datetime": 1766561177,
-      "filename": "lineage-20.0-20251224-VANILLA-waydroid_tv_x86_64-system.zip",
-      "id": "3f922eeedf0cc13bd619596ff70ae1e55ec8c4028f7ca1405696390b129a6f59",
-      "romtype": "VANILLA",
-      "asb": "2025-12-01",
-      "size": 799315399,
-      "url": "https://sourceforge.net/projects/waydroid-atv/files/images/system/waydroid_tv_x86_64/lineage-20.0-20251224-VANILLA-waydroid_tv_x86_64-system.zip/download",
-      "version": "20.0"
     }
   ]
 }
